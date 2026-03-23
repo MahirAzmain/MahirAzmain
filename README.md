@@ -1,56 +1,56 @@
 # Mahir Azmain
 
-Frontend-focused developer with an interest in building clean, responsive, and practical web experiences.
+Frontend Developer focused on building clean, responsive, and user-friendly web experiences.
 
-## About Me
-- University student with a growing focus on modern web development
-- Interested in building user-friendly interfaces and real-world projects
-- Expanding from frontend work into full-stack development
-- Committed to learning through hands-on projects and consistent improvement
+## Professional Summary
+I am a university student and aspiring software developer with a strong interest in frontend engineering and modern web development. I enjoy turning ideas into practical, well-structured interfaces and continuously improving my skills through hands-on projects.
 
-## Technical Skills
-**Frontend**
-- HTML
-- CSS
+I am currently expanding my experience across both frontend and backend technologies, with a focus on building real-world applications that are functional, accessible, and visually polished.
+
+## Core Skills
+**Frontend Development**
+- HTML5
+- CSS3
 - JavaScript
 - SCSS
 - React
 - Angular
+- Responsive Web Design
 
-**Backend**
+**Backend & Database**
 - PHP
-- MySQL
 - Node.js
-- REST API
 - FastAPI
+- REST APIs
+- MySQL
 - PostgreSQL
 
-**Tools & Practices**
+**Tools & Workflow**
 - Git
 - GitHub
-- Responsive Design
 - UI-focused development
+- Project-based learning
 
 ## Featured Projects
 ### Portfolio Deploy
-Dynamic portfolio powered by GitHub Pages and Supabase.
-- Repository: <https://github.com/MahirAzmain/portfolio-deploy>
-- Live Site: <https://mahirazmain.github.io/portfolio-deploy/>
+A modern portfolio site deployed on GitHub Pages and powered by Supabase for dynamic content management.
+- **Repository:** <https://github.com/MahirAzmain/portfolio-deploy>
+- **Live Demo:** <https://mahirazmain.github.io/portfolio-deploy/>
 
 ### Portfolio
-Original portfolio source repository.
-- Repository: <https://github.com/MahirAzmain/Portfolio>
+The original portfolio source project showcasing my design approach, frontend work, and personal web presence.
+- **Repository:** <https://github.com/MahirAzmain/Portfolio>
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahirAzmain&show_icons=true&theme=default)
+## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahirAzmain&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirAzmain&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirAzmain&layout=compact&theme=default&hide_border=true)
 
 ## Contact
-- GitHub: <https://github.com/MahirAzmain>
-- LinkedIn: <https://www.linkedin.com/in/mahir-azmain-haque-65b6a5219/>
-- Facebook: <https://www.facebook.com/mahir.azmain.7>
-- Instagram: <https://www.instagram.com/mahir_azmain_/>
+- **GitHub:** <https://github.com/MahirAzmain>
+- **LinkedIn:** <https://www.linkedin.com/in/mahir-azmain-haque-65b6a5219/>
+- **Facebook:** <https://www.facebook.com/mahir.azmain.7>
+- **Instagram:** <https://www.instagram.com/mahir_azmain_/>
 
 ---
-Building steadily, learning continuously, and improving with each project.
+Open to learning, collaboration, and opportunities that support growth as a developer.
