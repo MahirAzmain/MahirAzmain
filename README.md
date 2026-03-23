@@ -5,15 +5,9 @@
  improvement, while bridging the gap between intelligent models and real-world digital experiences.
 </p>
 
-<p align="center">
-  <a href="https://github.com/MahirAzmain"><img src="https://img.shields.io/badge/GitHub-MahirAzmain-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/mahir-azmain-haque-65b6a5219/"><img src="https://img.shields.io/badge/LinkedIn-Mahir%20Azmain-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://mahirazmain.github.io/portfolio-deploy/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-111111?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
-</p>
-
 ---
 
-## Professional Summary
+## Summary
 I am Mahir Azmain Haque, a university student and deep learning researcher, as well as an aspiring software developer. I design robust, data-driven models and create well-structured, responsive web experiences, while steadily expanding my backend and database skills to build complete real-world applications.
 
 ## Tech Stack
@@ -51,9 +45,6 @@ The original portfolio source project that showcases my frontend design approach
 
 ## GitHub Analytics
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MahirAzmain&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahirAzmain&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 <p>
@@ -62,9 +53,3 @@ The original portfolio source project that showcases my frontend design approach
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirAzmain&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
-
-## Contact
-- **GitHub:** <https://github.com/MahirAzmain>
-- **LinkedIn:** <https://www.linkedin.com/in/mahir-azmain-haque-65b6a5219/>
-- **Facebook:** <https://www.facebook.com/mahir.azmain.7>
-- **Instagram:** <https://www.instagram.com/mahir_azmain_/>
