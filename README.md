@@ -1,7 +1,8 @@
-<h1 align="center">Mahir Azmain</h1>
-<p align="center"><strong>Frontend Developer • UI-Focused Builder • Aspiring Full-Stack Engineer</strong></p>
+<h1 align="center">Mahir Azmain Haque</h1>
+<p align="center"><strong>Deep Learning Researcher • Aspiring Software Developer • Web Development Enthusiast</strong></p>
 <p align="center">
-  Building clean, responsive, and practical web experiences with a focus on usability and continuous improvement.
+ Creating clean, responsive, and practical web applications that complement my deep learning research, with a strong emphasis on usability, performance, and continuous   
+ improvement, while bridging the gap between intelligent models and real-world digital experiences.
 </p>
 
 <p align="center">
@@ -13,9 +14,7 @@
 ---
 
 ## Professional Summary
-I am a university student and aspiring software developer with a strong interest in frontend engineering and modern web development. I enjoy transforming ideas into well-structured, responsive, and user-friendly digital experiences.
-
-Alongside frontend development, I am steadily expanding my skills in backend tools and databases to build more complete, real-world applications.
+I am Mahir Azmain Haque, a university student and deep learning researcher, as well as an aspiring software developer. I design robust, data-driven models and create well-structured, responsive web experiences, while steadily expanding my backend and database skills to build complete real-world applications.
 
 ## Tech Stack
 <p>
@@ -63,14 +62,6 @@ The original portfolio source project that showcases my frontend design approach
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirAzmain&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
-
-## Currently Learning
-- Strengthening frontend architecture and UI implementation skills
-- Expanding backend knowledge with APIs, authentication, and databases
-- Building more complete full-stack projects with production-style workflows
-
-## Open To Opportunities
-I am open to internships, entry-level developer roles, and collaborative projects where I can continue learning, contribute meaningfully, and grow as a software developer.
 
 ## Contact
 - **GitHub:** <https://github.com/MahirAzmain>
