@@ -28,20 +28,10 @@ I am Mahir Azmain Haque, a university student and deep learning researcher, as w
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-## Featured Projects
 ### Portfolio Deploy
 A dynamic portfolio website built from my frontend work and powered by Supabase for content management.
 - **Repository:** <https://github.com/MahirAzmain/portfolio-deploy>
 - **Live Demo:** <https://mahirazmain.github.io/portfolio-deploy/>
-
-### Portfolio
-The original portfolio source project that showcases my frontend design approach and personal web presence.
-- **Repository:** <https://github.com/MahirAzmain/Portfolio>
-
-## Project Highlights
-- Built and deployed a portfolio website using **GitHub Pages** and **Supabase**
-- Structured portfolio content to support dynamic updates for projects, experience, and contact submissions
-- Focused on clean interface design, responsive layouts, and practical web development workflows
 
 ## GitHub Analytics
 <p>
