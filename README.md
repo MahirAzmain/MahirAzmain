@@ -1,38 +1,56 @@
-# Hi, I'm Mahir Azmain 👋
+# Mahir Azmain
 
-Frontend-focused developer who enjoys building clean, responsive, and practical web experiences.
+Frontend-focused developer with an interest in building clean, responsive, and practical web experiences.
 
-## 🚀 Intro
-- 🎓 University student
-- 💻 Interested in web development and UI-focused projects
-- 🌱 Currently learning and building across frontend and full-stack tools
-- 🎯 Goal: keep improving through real projects and consistent practice
+## About Me
+- University student with a growing focus on modern web development
+- Interested in building user-friendly interfaces and real-world projects
+- Expanding from frontend work into full-stack development
+- Committed to learning through hands-on projects and consistent improvement
 
-## 🛠 Skills
-- **Frontend:** HTML, CSS, JavaScript, SCSS, React, Angular
-- **Backend:** PHP, MySQL, Node.js, REST API, FastAPI, PostgreSQL
-- **Other:** Responsive Design, Git, GitHub
+## Technical Skills
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- SCSS
+- React
+- Angular
 
-## 📌 Featured Projects
-- **Portfolio Deploy**
-  - Dynamic portfolio powered by GitHub Pages + Supabase
-  - Repo: <https://github.com/MahirAzmain/portfolio-deploy>
-  - Live: <https://mahirazmain.github.io/portfolio-deploy/>
+**Backend**
+- PHP
+- MySQL
+- Node.js
+- REST API
+- FastAPI
+- PostgreSQL
 
-- **Portfolio (original repo)**
-  - Original portfolio source
-  - Repo: <https://github.com/MahirAzmain/Portfolio>
+**Tools & Practices**
+- Git
+- GitHub
+- Responsive Design
+- UI-focused development
 
-## 📊 GitHub Stats
-![Mahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahirAzmain&show_icons=true&theme=tokyonight)
+## Featured Projects
+### Portfolio Deploy
+Dynamic portfolio powered by GitHub Pages and Supabase.
+- Repository: <https://github.com/MahirAzmain/portfolio-deploy>
+- Live Site: <https://mahirazmain.github.io/portfolio-deploy/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirAzmain&layout=compact&theme=tokyonight)
+### Portfolio
+Original portfolio source repository.
+- Repository: <https://github.com/MahirAzmain/Portfolio>
 
-## 🌐 Contact
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahirAzmain&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirAzmain&layout=compact&theme=default)
+
+## Contact
 - GitHub: <https://github.com/MahirAzmain>
 - LinkedIn: <https://www.linkedin.com/in/mahir-azmain-haque-65b6a5219/>
 - Facebook: <https://www.facebook.com/mahir.azmain.7>
 - Instagram: <https://www.instagram.com/mahir_azmain_/>
 
 ---
-_Always learning, building, and improving._
+Building steadily, learning continuously, and improving with each project.
