@@ -1,5 +1,7 @@
 <h1 align="center">Mahir Azmain Haque</h1>
-<p align="center"><strong>Deep Learning Researcher • Aspiring Software Developer • Web Development Enthusiast</strong></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Deep+Learning+Researcher;Aspiring+Software+Developer;Web+Development+Enthusiast;Building+clean%2C+responsive%2C+practical+web+applications" alt="Typing SVG" />
+</p>
 <p align="center">
  Creating clean, responsive, and practical web applications that complement my deep learning research, with a strong emphasis on usability, performance, and continuous   
  improvement, while bridging the gap between intelligent models and real-world digital experiences.
