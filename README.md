@@ -37,6 +37,9 @@ A dynamic portfolio website built from my frontend work and powered by Supabase 
 
 ## GitHub Analytics
 <p>
+  <img src="https://github.com/MahirAzmain/MahirAzmain/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
+</p>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahirAzmain&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 <p>
