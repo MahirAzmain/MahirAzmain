@@ -52,6 +52,12 @@ The original portfolio source project that showcases my frontend design approach
 
 ## GitHub Analytics
 <p>
+  <img src="https://github-profile-trophy.vercel.app/?username=MahirAzmain&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahirAzmain&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=MahirAzmain&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 <p>
