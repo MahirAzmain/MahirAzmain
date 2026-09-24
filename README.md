@@ -42,9 +42,3 @@ A dynamic portfolio website built from my frontend work and powered by Supabase 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahirAzmain&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MahirAzmain&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirAzmain&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
